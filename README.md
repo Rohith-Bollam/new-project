@@ -8,6 +8,6 @@ This project is intended to demonstrate core AI agent logic, task specialization
 ℹ️ Project Scope
 
 - This project is code-only and runs via Python scripts.
-- No web interface, backend server, or API endpoints are implemented.
+- No web interface, backend server are implemented.
 - Focus is on agent behavior, prompt design, and output quality.
 - Designed for learning, experimentation, and interview demonstration.
